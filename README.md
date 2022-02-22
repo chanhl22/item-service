@@ -1,11 +1,11 @@
 # item-service
-##상품 도메인 모델
+## 상품 도메인 모델
 - 상품 ID
 - 상품명
 - 가격
 - 수량
 
-##상품 관리 기능
+## 상품 관리 기능
 - 상품 목록  
   ![image](https://user-images.githubusercontent.com/77683221/155049336-d51ba6fa-9a23-4462-8d26-5f2291442d29.png)
 - 상품 등록  
